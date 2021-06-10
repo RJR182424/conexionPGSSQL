@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conexionPGSSQL", "conexionPGSSQL\conexionPGSSQL.csproj", "{B8204EB4-21FD-4E4A-B32A-DC8B5BDC5F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8204EB4-21FD-4E4A-B32A-DC8B5BDC5F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8204EB4-21FD-4E4A-B32A-DC8B5BDC5F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8204EB4-21FD-4E4A-B32A-DC8B5BDC5F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8204EB4-21FD-4E4A-B32A-DC8B5BDC5F79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {517B354F-1F81-469F-9E8C-24F7373C5C37}
+	EndGlobalSection
+EndGlobal
